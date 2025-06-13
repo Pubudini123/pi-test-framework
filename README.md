@@ -1,4 +1,4 @@
-# GenAI Application Builder - Test Automation Framework
+# Test Automation Framework using Javascript
 
 This project is a sample test automation framework for the GenAI Application Builder using JavaScript, Selenium WebDriver, Mocha/Chai, and GitHub Actions for CI.
 
